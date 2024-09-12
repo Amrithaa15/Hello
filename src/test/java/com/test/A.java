@@ -12,4 +12,13 @@ public class A {
 	private void tc3() {
 		System.out.println(3);
 	}
+	
+	private void shan1() {
+		System.out.println(4);
+
+	}
+	private void shan2() {
+		System.out.println(5);
+
+	}
 }
